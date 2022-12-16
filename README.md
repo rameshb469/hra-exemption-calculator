@@ -14,29 +14,29 @@ Actual rent paid minus 10% of salary
 
 # Example :
 
-Enter range of your basic salary..
-70000
-80000
-Enter range of your HRA received from your employer
-30000
-35000
-Enter range of rent you paid to house
-30000
-35000
-Are you living in Metro city (Delhi, Kolkata, Mumbai, Chennai)
-false
-You're entered following details ...........
-Basic salary range from  70000.0 to 80000.0
-Basic HRA received from  30000.0 to 35000.0
-Basic Paid HRA range from  30000.0 to 35000.0
+Enter range of your basic salary.. <br/>
+70000 <br/>
+80000 <br/>
+Enter range of your HRA received from your employer <br/>
+30000 <br/>
+35000 <br/>
+Enter range of rent you paid to house <br/>
+30000 <br/>
+35000 <br/>
+Are you living in Metro city (Delhi, Kolkata, Mumbai, Chennai) <br/>
+false <br/>
+You're entered following details ........... <br/>
+Basic salary range from  70000.0 to 80000.0 <br/>
+Basic HRA received from  30000.0 to 35000.0 <br/>
+Basic Paid HRA range from  30000.0 to 35000.0 <br/>
 
-***************************************************
-Maximum house rent exemption is 28000.0
-Desire basic salary is 70000.0
-Desire HRA component value is 30000.0
-Desire HRA paid value is 35000.0
-***************************************************
+*************************************************** <br/>
+Maximum house rent exemption is 28000.0 <br/>
+Desire basic salary is 70000.0 <br/>
+Desire HRA component value is 30000.0 <br/>
+Desire HRA paid value is 35000.0 <br/>
+*************************************************** <br/>
 
-You want continue ... Please enter true for continue... 
-true
+You want continue ... Please enter true for continue...  <br/>
+false <br/>
 
